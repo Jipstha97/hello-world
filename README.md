@@ -1,2 +1,2 @@
 # hello-world
-Just guide
+Just another example of the hello-world theme
